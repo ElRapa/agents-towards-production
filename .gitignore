@@ -72,3 +72,10 @@ Thumbs.db
 
 # ATP Views Tracker
 atp_views_tracker/
+
+# Additional common ignores
+*~
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.env.local
+*.env
